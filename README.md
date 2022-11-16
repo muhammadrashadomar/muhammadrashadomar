@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Health Care App**
 
-- 🌱 I’m currently learning **CS50, PHP and Algorithms**
+- 🌱 I’m currently learning **CS50، Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://muhammad-r-omar.web.app](https://muhammad-r-omar.web.app)
 
