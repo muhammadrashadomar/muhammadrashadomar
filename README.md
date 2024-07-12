@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadrashadomar" alt="muhammadrashadomar" /></a> </p>
 
-- 🔭 I’m currently working on **Health Care App**
+- 🔭 I’m currently working on **E-commerce app**
 
-- 🌱 I’m currently learning **CS50, Data Structures and Algorithms**
+- 🌱 I’m always learning **Software engineering topics**
 
 - 👨‍💻 All of my projects are available at [https://muhammad-r-omar.web.app](https://muhammad-r-omar.web.app)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **next.innovation200@gmail.com**
+- 📫 How to reach me **mu.rashad.omar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
